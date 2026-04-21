@@ -1,0 +1,3 @@
+BROADCAST_MAC = "ff:ff:ff:ff:ff:ff"
+BROADCAST_THRESHOLD = 10
+ALLOWED_PORT = 1
